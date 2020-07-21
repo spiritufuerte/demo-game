@@ -1,0 +1,27 @@
+.Tiles {
+    display: grid;
+    grid-template-columns: 110px 110px 110px 110px;
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
+.textEndGame {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.wrapper {
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.bigTiles {
+    display: grid;
+    grid-template-columns: 90px 90px 90px 90px 90px 90px;
+    column-gap: 5px;
+    row-gap: 5px;
+}

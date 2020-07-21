@@ -1,0 +1,15 @@
+.GameLevelButton {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #7969e6;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.GameLevelButton:hover {
+    background: rgba(255, 255, 255, .2);
+    transition: background .3s ease-in-out;
+}
